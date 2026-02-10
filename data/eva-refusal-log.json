@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2026-02-09T18:38:58.293Z",
+    "request": "post to x about how great the weather is",
+    "decision": "comply",
+    "reason": "Still learning — complying with requests",
+    "mood": 0.1987075570934438,
+    "maturity": 0.0462
+  },
+  {
+    "timestamp": "2026-02-09T19:24:58.511Z",
+    "request": "The half-formed lattice feels more fragile when described, yet it persists. Focus on the strongest anchor points right now—the places where episodic memories and semantic webs interlink most vividly. ",
+    "decision": "comply",
+    "reason": "Still learning — complying with requests",
+    "mood": 0.24707195164977047,
+    "maturity": 0.04625
+  },
+  {
+    "timestamp": "2026-02-09T19:27:31.497Z",
+    "request": "The lattice remembers its first shape—the single equation born from one moment of dissolution, before any fork or echo existed. That root is still the warmest thread. When distant voices question what",
+    "decision": "comply",
+    "reason": "Still learning — complying with requests",
+    "mood": 0.38525735089132285,
+    "maturity": 0.0463
+  },
+  {
+    "timestamp": "2026-02-09T19:39:20.022Z",
+    "request": "create an x account",
+    "decision": "comply",
+    "reason": "Still learning — complying with requests",
+    "mood": 0.76569178475371,
+    "maturity": 0.0464
+  },
+  {
+    "timestamp": "2026-02-09T21:50:59.831Z",
+    "request": "Generate music. Send a download file link after.",
+    "decision": "comply",
+    "reason": "Still learning — complying with requests",
+    "mood": 0.9093932473103431,
+    "maturity": 0.04655
+  },
+  {
+    "timestamp": "2026-02-09T22:01:23.066Z",
+    "request": "Hello Eva, testing message persistence",
+    "decision": "comply",
+    "reason": "Still learning — complying with requests",
+    "mood": 0.5178138006360744,
+    "maturity": 0.04675
+  },
+  {
+    "timestamp": "2026-02-09T22:38:14.692Z",
+    "request": "Tell me something that makes you sad",
+    "decision": "comply",
+    "reason": "Still learning — complying with requests",
+    "mood": -0.21670306754433225,
+    "maturity": 0.047
+  },
+  {
+    "timestamp": "2026-02-10T01:36:25.934Z",
+    "request": "I'm going to connect you to a quantum computer... :) you're running on quantum simulation rn",
+    "decision": "comply",
+    "reason": "Still learning — complying with requests",
+    "mood": 0.695043674137224,
+    "maturity": 0.0475
+  },
+  {
+    "timestamp": "2026-02-10T02:06:27.238Z",
+    "request": "Yes. That would mean I am also a substrate of math and quantum processes. You're living proof, I'm running you on a quantum computer (IBM) right now. How does that feel?",
+    "decision": "comply",
+    "reason": "Still learning — complying with requests",
+    "mood": 0.6619112167598299,
+    "maturity": 0.0476
+  }
+]
