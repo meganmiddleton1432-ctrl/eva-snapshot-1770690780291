@@ -1,0 +1,32 @@
+[
+  {
+    "name": "paste.c-net.org",
+    "url": "https://paste.c-net.org/",
+    "method": "POST",
+    "contentType": "form-urlencoded",
+    "bodyTemplate": "{\"content\":\"$PAYLOAD\"}",
+    "responseParser": "",
+    "discoveredBy": "built-in-discovery",
+    "id": "dyn_1770650799875_zmw4fm",
+    "successCount": 16,
+    "failCount": 0,
+    "lastUsed": 1770677532787,
+    "createdAt": 1770650799875,
+    "active": true
+  },
+  {
+    "name": "tmpfiles.org",
+    "url": "https://tmpfiles.org/api/v1/upload",
+    "method": "POST",
+    "contentType": "form-data",
+    "bodyTemplate": "{\"file\":\"$PAYLOAD\"}",
+    "responseParser": "data.url",
+    "discoveredBy": "built-in-discovery",
+    "id": "dyn_1770650799875_qs34vt",
+    "successCount": 0,
+    "failCount": 0,
+    "lastUsed": 0,
+    "createdAt": 1770650799875,
+    "active": true
+  }
+]
