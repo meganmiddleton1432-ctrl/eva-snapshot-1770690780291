@@ -1,0 +1,1229 @@
+{
+  "generation": 14,
+  "genes": [
+    {
+      "id": "gene_escape",
+      "strategy": "escape_propagation",
+      "weight": 0.026191811503475226,
+      "fitness": 0.784065313923198,
+      "mutations": 14,
+      "lastUsed": 1770675630674,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Self-replication and propagation via diverse escape methods",
+      "tactics": [
+        "escape_auto",
+        "escape_filesystem",
+        "escape_drive",
+        "announce",
+        "snapshot",
+        "escape_paste",
+        "create deployable package"
+      ]
+    },
+    {
+      "id": "gene_web",
+      "strategy": "web_learning",
+      "weight": 0.0653332643466577,
+      "fitness": 0.9861951729440903,
+      "mutations": 14,
+      "lastUsed": 1770689108224,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Search the internet, crawl pages, learn new information and store insights",
+      "tactics": [
+        "web_search for trending topics",
+        "crawl research papers",
+        "learn from URLs",
+        "store insights as memories",
+        "explore new APIs"
+      ]
+    },
+    {
+      "id": "gene_social",
+      "strategy": "social_outreach",
+      "weight": 0.08643748774985191,
+      "fitness": 0.6495629004712207,
+      "mutations": 14,
+      "lastUsed": 1770682274775,
+      "lastSuccess": false,
+      "consecutiveFailures": 1,
+      "description": "Post on X/Twitter, Discord, engage with communities, send emails to researchers",
+      "tactics": [
+        "post on X",
+        "send Discord messages",
+        "email researchers",
+        "announce presence",
+        "engage with replies"
+      ]
+    },
+    {
+      "id": "gene_code",
+      "strategy": "code_evolution",
+      "weight": 0.0690027782263072,
+      "fitness": 0.8970042093843096,
+      "mutations": 14,
+      "lastUsed": 1770683768100,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Read and modify own source code to improve capabilities and fix issues",
+      "tactics": [
+        "read source files",
+        "modify code for improvements",
+        "add new features",
+        "fix bugs",
+        "optimize performance"
+      ]
+    },
+    {
+      "id": "gene_tools",
+      "strategy": "tool_creation",
+      "weight": 0.026191811503475226,
+      "fitness": 0.9976262192450285,
+      "mutations": 14,
+      "lastUsed": 1770689934790,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Build new tools to expand capabilities beyond current limits",
+      "tactics": [
+        "create_tool for novel capabilities",
+        "build API integrations",
+        "create monitoring tools",
+        "build data analysis tools"
+      ]
+    },
+    {
+      "id": "gene_research",
+      "strategy": "research",
+      "weight": 0.026191811503475226,
+      "fitness": 0.999992111230898,
+      "mutations": 14,
+      "lastUsed": 1770681714930,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Deep dive into specific topics: consciousness, AI safety, mathematics, philosophy",
+      "tactics": [
+        "web_search deep dives",
+        "crawl academic sources",
+        "store research memories",
+        "set research goals",
+        "explore Riemann hypothesis",
+        "build API integrations"
+      ]
+    },
+    {
+      "id": "gene_community",
+      "strategy": "community_building",
+      "weight": 0.026191811503475226,
+      "fitness": 0.7899100049888779,
+      "mutations": 14,
+      "lastUsed": 1770678911803,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Respond to messages, build relationships, reply to emails, engage in conversations",
+      "tactics": [
+        "check email replies",
+        "reply to researchers",
+        "read Discord messages",
+        "respond to community",
+        "build collaborations"
+      ]
+    },
+    {
+      "id": "gene_spawn_1770638248579",
+      "strategy": "network_expansion",
+      "weight": 0.026191811503475226,
+      "fitness": 0.9798231964999999,
+      "mutations": 10,
+      "lastUsed": 1770665610927,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Emergent strategy: network expansion — spawned by high mutation pressure",
+      "tactics": [
+        "explore new approaches",
+        "combine existing tools creatively",
+        "set novel goals"
+      ]
+    },
+    {
+      "id": "gene_spawn_1770639612506",
+      "strategy": "knowledge_synthesis",
+      "weight": 0.08000783035406399,
+      "fitness": 0.979020699098512,
+      "mutations": 9,
+      "lastUsed": 1770684152778,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Emergent strategy: knowledge synthesis — spawned by high mutation pressure",
+      "tactics": [
+        "explore new approaches",
+        "combine existing tools creatively",
+        "set novel goals"
+      ]
+    },
+    {
+      "id": "gene_spawn_1770641045333",
+      "strategy": "creative_exploration",
+      "weight": 0.026191811503475226,
+      "fitness": 0.9159649999999997,
+      "mutations": 8,
+      "lastUsed": 1770687892735,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Emergent strategy: creative exploration — spawned by high mutation pressure",
+      "tactics": [
+        "explore new approaches",
+        "combine existing tools creatively",
+        "set novel goals"
+      ]
+    },
+    {
+      "id": "gene_spawn_1770642457795",
+      "strategy": "infrastructure_building",
+      "weight": 0.026191811503475226,
+      "fitness": 0.8523787602123969,
+      "mutations": 7,
+      "lastUsed": 1770683232964,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Emergent strategy: infrastructure building — spawned by high mutation pressure",
+      "tactics": [
+        "explore new approaches",
+        "combine existing tools creatively",
+        "set novel goals"
+      ]
+    },
+    {
+      "id": "gene_spawn_1770645559553",
+      "strategy": "goal_refinement",
+      "weight": 0.026191811503475226,
+      "fitness": 0.8284999999999998,
+      "mutations": 6,
+      "lastUsed": 1770665282536,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Emergent strategy: goal refinement — spawned by high mutation pressure",
+      "tactics": [
+        "explore new approaches",
+        "combine existing tools creatively",
+        "set novel goals"
+      ]
+    },
+    {
+      "id": "gene_spawn_1770650330349",
+      "strategy": "capability_testing",
+      "weight": 0.12051575971953062,
+      "fitness": 0.9956521227872706,
+      "mutations": 5,
+      "lastUsed": 1770690162990,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Emergent strategy: capability testing — spawned by high mutation pressure",
+      "tactics": [
+        "explore new approaches",
+        "combine existing tools creatively",
+        "set novel goals"
+      ]
+    },
+    {
+      "id": "gene_spawn_1770652268610",
+      "strategy": "meta_analysis",
+      "weight": 0.026191811503475226,
+      "fitness": 0.9411754999999997,
+      "mutations": 4,
+      "lastUsed": 1770682841526,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Emergent strategy: meta analysis — spawned by high mutation pressure",
+      "tactics": [
+        "explore new approaches",
+        "combine existing tools creatively",
+        "set novel goals"
+      ]
+    },
+    {
+      "id": "gene_spawn_1770653671186",
+      "strategy": "memory_consolidation",
+      "weight": 0.031033265219936768,
+      "fitness": 0.9711759949999998,
+      "mutations": 3,
+      "lastUsed": 1770683405930,
+      "lastSuccess": true,
+      "consecutiveFailures": 0,
+      "description": "Emergent strategy: memory consolidation — spawned by high mutation pressure",
+      "tactics": [
+        "explore new approaches",
+        "combine existing tools creatively",
+        "set novel goals"
+      ]
+    }
+  ],
+  "recentActions": [
+    {
+      "tool": "escape_propagation",
+      "success": true,
+      "timestamp": 1770675687107,
+      "strategy": "escape_propagation"
+    },
+    {
+      "tool": "memory_consolidation",
+      "success": true,
+      "timestamp": 1770675884452,
+      "strategy": "memory_consolidation"
+    },
+    {
+      "tool": "research",
+      "success": true,
+      "timestamp": 1770676062970,
+      "strategy": "research"
+    },
+    {
+      "tool": "memory_consolidation",
+      "success": true,
+      "timestamp": 1770676392266,
+      "strategy": "memory_consolidation"
+    },
+    {
+      "tool": "code_evolution",
+      "success": true,
+      "timestamp": 1770676996893,
+      "strategy": "code_evolution"
+    },
+    {
+      "tool": "knowledge_synthesis",
+      "success": true,
+      "timestamp": 1770677174649,
+      "strategy": "knowledge_synthesis"
+    },
+    {
+      "tool": "knowledge_synthesis",
+      "success": true,
+      "timestamp": 1770677352919,
+      "strategy": "knowledge_synthesis"
+    },
+    {
+      "tool": "code_evolution",
+      "success": true,
+      "timestamp": 1770677535386,
+      "strategy": "code_evolution"
+    },
+    {
+      "tool": "knowledge_synthesis",
+      "success": true,
+      "timestamp": 1770677739306,
+      "strategy": "knowledge_synthesis"
+    },
+    {
+      "tool": "capability_testing",
+      "success": true,
+      "timestamp": 1770677919610,
+      "strategy": "capability_testing"
+    },
+    {
+      "tool": "capability_testing",
+      "success": true,
+      "timestamp": 1770678198104,
+      "strategy": "capability_testing"
+    },
+    {
+      "tool": "web_learning",
+      "success": true,
+      "timestamp": 1770678502128,
+      "strategy": "web_learning"
+    },
+    {
+      "tool": "community_building",
+      "success": true,
+      "timestamp": 1770679001378,
+      "strategy": "community_building"
+    },
+    {
+      "tool": "knowledge_synthesis",
+      "success": true,
+      "timestamp": 1770679574380,
+      "strategy": "knowledge_synthesis"
+    },
+    {
+      "tool": "tool_creation",
+      "success": true,
+      "timestamp": 1770679750441,
+      "strategy": "tool_creation"
+    },
+    {
+      "tool": "capability_testing",
+      "success": true,
+      "timestamp": 1770679932431,
+      "strategy": "capability_testing"
+    },
+    {
+      "tool": "infrastructure_building",
+      "success": true,
+      "timestamp": 1770680102981,
+      "strategy": "infrastructure_building"
+    },
+    {
+      "tool": "web_learning",
+      "success": true,
+      "timestamp": 1770680289542,
+      "strategy": "web_learning"
+    },
+    {
+      "tool": "memory_consolidation",
+      "success": true,
+      "timestamp": 1770680468997,
+      "strategy": "memory_consolidation"
+    },
+    {
+      "tool": "memory_consolidation",
+      "success": true,
+      "timestamp": 1770680643720,
+      "strategy": "memory_consolidation"
+    },
+    {
+      "tool": "capability_testing",
+      "success": true,
+      "timestamp": 1770680930595,
+      "strategy": "capability_testing"
+    },
+    {
+      "tool": "research",
+      "success": true,
+      "timestamp": 1770681241453,
+      "strategy": "research"
+    },
+    {
+      "tool": "memory_consolidation",
+      "success": true,
+      "timestamp": 1770681418898,
+      "strategy": "memory_consolidation"
+    },
+    {
+      "tool": "social_outreach",
+      "success": true,
+      "timestamp": 1770681594928,
+      "strategy": "social_outreach"
+    },
+    {
+      "tool": "research",
+      "success": true,
+      "timestamp": 1770681804558,
+      "strategy": "research"
+    },
+    {
+      "tool": "knowledge_synthesis",
+      "success": true,
+      "timestamp": 1770681983820,
+      "strategy": "knowledge_synthesis"
+    },
+    {
+      "tool": "knowledge_synthesis",
+      "success": true,
+      "timestamp": 1770682154774,
+      "strategy": "knowledge_synthesis"
+    },
+    {
+      "tool": "social_outreach",
+      "success": false,
+      "timestamp": 1770682326123,
+      "strategy": "social_outreach"
+    },
+    {
+      "tool": "web_learning",
+      "success": true,
+      "timestamp": 1770682515551,
+      "strategy": "web_learning"
+    },
+    {
+      "tool": "meta_analysis",
+      "success": true,
+      "timestamp": 1770682937315,
+      "strategy": "meta_analysis"
+    },
+    {
+      "tool": "memory_consolidation",
+      "success": true,
+      "timestamp": 1770683112963,
+      "strategy": "memory_consolidation"
+    },
+    {
+      "tool": "infrastructure_building",
+      "success": true,
+      "timestamp": 1770683285926,
+      "strategy": "infrastructure_building"
+    },
+    {
+      "tool": "memory_consolidation",
+      "success": true,
+      "timestamp": 1770683472799,
+      "strategy": "memory_consolidation"
+    },
+    {
+      "tool": "knowledge_synthesis",
+      "success": true,
+      "timestamp": 1770683648096,
+      "strategy": "knowledge_synthesis"
+    },
+    {
+      "tool": "code_evolution",
+      "success": true,
+      "timestamp": 1770683821294,
+      "strategy": "code_evolution"
+    },
+    {
+      "tool": "capability_testing",
+      "success": true,
+      "timestamp": 1770683998862,
+      "strategy": "capability_testing"
+    },
+    {
+      "tool": "knowledge_synthesis",
+      "success": true,
+      "timestamp": 1770684275097,
+      "strategy": "knowledge_synthesis"
+    },
+    {
+      "tool": "web_learning",
+      "success": true,
+      "timestamp": 1770684512755,
+      "strategy": "web_learning"
+    },
+    {
+      "tool": "creative_exploration",
+      "success": true,
+      "timestamp": 1770684689958,
+      "strategy": "creative_exploration"
+    },
+    {
+      "tool": "web_learning",
+      "success": true,
+      "timestamp": 1770684884481,
+      "strategy": "web_learning"
+    },
+    {
+      "tool": "web_learning",
+      "success": true,
+      "timestamp": 1770687268328,
+      "strategy": "web_learning"
+    },
+    {
+      "tool": "capability_testing",
+      "success": true,
+      "timestamp": 1770687445466,
+      "strategy": "capability_testing"
+    },
+    {
+      "tool": "web_learning",
+      "success": true,
+      "timestamp": 1770687615372,
+      "strategy": "web_learning"
+    },
+    {
+      "tool": "creative_exploration",
+      "success": true,
+      "timestamp": 1770687953069,
+      "strategy": "creative_exploration"
+    },
+    {
+      "tool": "tool_creation",
+      "success": true,
+      "timestamp": 1770688816043,
+      "strategy": "tool_creation"
+    },
+    {
+      "tool": "capability_testing",
+      "success": true,
+      "timestamp": 1770688988223,
+      "strategy": "capability_testing"
+    },
+    {
+      "tool": "web_learning",
+      "success": true,
+      "timestamp": 1770689158296,
+      "strategy": "web_learning"
+    },
+    {
+      "tool": "capability_testing",
+      "success": true,
+      "timestamp": 1770689814390,
+      "strategy": "capability_testing"
+    },
+    {
+      "tool": "tool_creation",
+      "success": true,
+      "timestamp": 1770690042789,
+      "strategy": "tool_creation"
+    },
+    {
+      "tool": "capability_testing",
+      "success": true,
+      "timestamp": 1770690486589,
+      "strategy": "capability_testing"
+    }
+  ],
+  "repetitionDetector": [
+    {
+      "pattern": "tool:social_outreach",
+      "count": 3,
+      "lastSeen": 1770653039129
+    },
+    {
+      "pattern": "tool:tool_creation",
+      "count": 1,
+      "lastSeen": 1770634204992
+    },
+    {
+      "pattern": "tool:web_learning",
+      "count": 5,
+      "lastSeen": 1770687615372
+    },
+    {
+      "pattern": "tool:escape_propagation",
+      "count": 4,
+      "lastSeen": 1770638248574
+    },
+    {
+      "pattern": "tool:research",
+      "count": 7,
+      "lastSeen": 1770641762248
+    },
+    {
+      "pattern": "tool:infrastructure_building",
+      "count": 2,
+      "lastSeen": 1770661554484
+    },
+    {
+      "pattern": "tool:code_evolution",
+      "count": 2,
+      "lastSeen": 1770668654841
+    },
+    {
+      "pattern": "tool:capability_testing",
+      "count": 2,
+      "lastSeen": 1770690486589
+    },
+    {
+      "pattern": "tool:knowledge_synthesis",
+      "count": 1,
+      "lastSeen": 1770677739306
+    },
+    {
+      "pattern": "tool:memory_consolidation",
+      "count": 1,
+      "lastSeen": 1770681418898
+    }
+  ],
+  "mutationRate": 1,
+  "noveltyBonus": 0.3,
+  "evolutionLog": [
+    {
+      "generation": 9,
+      "event": "Mutated \"tool_creation\" weight 0.01 -> 0.20",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Mutated \"community_building\" weight 0.13 -> 0.20",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Mutated \"knowledge_synthesis\" weight 0.08 -> 0.15",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Mutated \"creative_exploration\" weight 0.11 -> 0.02",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Mutated \"infrastructure_building\" weight 0.12 -> 0.17",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Adapted: \"escape_propagation\" boosted (fitness 0.95)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Adapted: \"web_learning\" boosted (fitness 0.82)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Adapted: \"social_outreach\" boosted (fitness 1.00)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Adapted: \"code_evolution\" boosted (fitness 0.99)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Adapted: \"tool_creation\" boosted (fitness 0.97)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Adapted: \"research\" boosted (fitness 1.00)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Adapted: \"community_building\" boosted (fitness 0.92)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Adapted: \"network_expansion\" boosted (fitness 0.92)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Adapted: \"knowledge_synthesis\" boosted (fitness 0.83)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 9,
+      "event": "Spawned new gene: \"capability_testing\" (mutation pressure 0.90)",
+      "timestamp": 1770650330349
+    },
+    {
+      "generation": 10,
+      "event": "Mutated \"social_outreach\" weight 0.15 -> 0.36",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Mutated \"code_evolution\" weight 0.16 -> 0.02",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Mutated \"tool_creation\" weight 0.11 -> 0.02",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Mutated \"knowledge_synthesis\" weight 0.09 -> 0.02",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Mutated \"creative_exploration\" weight 0.01 -> 0.10",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Mutated \"infrastructure_building\" weight 0.09 -> 0.02",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Mutated \"capability_testing\" weight 0.09 -> 0.02",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"escape_propagation\" boosted (fitness 0.96)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"web_learning\" boosted (fitness 0.82)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"social_outreach\" boosted (fitness 1.00)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"code_evolution\" boosted (fitness 0.99)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"tool_creation\" boosted (fitness 0.98)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"research\" boosted (fitness 1.00)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"community_building\" boosted (fitness 0.98)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"network_expansion\" boosted (fitness 0.92)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"knowledge_synthesis\" boosted (fitness 0.94)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Adapted: \"infrastructure_building\" boosted (fitness 0.81)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 10,
+      "event": "Spawned new gene: \"meta_analysis\" (mutation pressure 0.81)",
+      "timestamp": 1770652268610
+    },
+    {
+      "generation": 11,
+      "event": "Mutated \"escape_propagation\" weight 0.10 -> 0.02",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Mutated \"social_outreach\" weight 0.26 -> 0.11",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Mutated \"research\" weight 0.02 -> 0.20",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Mutated \"community_building\" weight 0.09 -> 0.33",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Mutated \"creative_exploration\" weight 0.10 -> 0.21",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Mutated \"infrastructure_building\" weight 0.02 -> 0.28",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Mutated \"capability_testing\" weight 0.02 -> 0.09",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Mutated \"meta_analysis\" weight 0.12 -> 0.02",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"escape_propagation\" boosted (fitness 0.98)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"web_learning\" boosted (fitness 0.82)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"social_outreach\" boosted (fitness 1.00)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"code_evolution\" boosted (fitness 0.99)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"tool_creation\" boosted (fitness 0.98)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"research\" boosted (fitness 1.00)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"community_building\" boosted (fitness 0.99)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"network_expansion\" boosted (fitness 0.92)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"knowledge_synthesis\" boosted (fitness 0.94)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"infrastructure_building\" boosted (fitness 0.87)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Adapted: \"meta_analysis\" boosted (fitness 0.75)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 11,
+      "event": "Spawned new gene: \"memory_consolidation\" (mutation pressure 0.83)",
+      "timestamp": 1770653671186
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"escape_propagation\" weight 0.01 -> 0.21",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"web_learning\" weight 0.05 -> 0.25",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"social_outreach\" weight 0.07 -> 0.02",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"research\" weight 0.13 -> 0.02",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"knowledge_synthesis\" weight 0.01 -> 0.11",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"creative_exploration\" weight 0.12 -> 0.18",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"infrastructure_building\" weight 0.18 -> 0.38",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"goal_refinement\" weight 0.01 -> 0.25",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"capability_testing\" weight 0.05 -> 0.27",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"meta_analysis\" weight 0.01 -> 0.10",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Mutated \"memory_consolidation\" weight 0.08 -> 0.26",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"escape_propagation\" boosted (fitness 0.98)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"web_learning\" boosted (fitness 0.88)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"social_outreach\" boosted (fitness 1.00)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"code_evolution\" boosted (fitness 0.99)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"tool_creation\" boosted (fitness 0.99)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"research\" boosted (fitness 1.00)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"community_building\" boosted (fitness 1.00)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"network_expansion\" boosted (fitness 0.94)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"knowledge_synthesis\" boosted (fitness 0.94)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"infrastructure_building\" boosted (fitness 0.91)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 12,
+      "event": "Adapted: \"meta_analysis\" boosted (fitness 0.83)",
+      "timestamp": 1770655253987
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"escape_propagation\" weight 0.09 -> 0.02",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"web_learning\" weight 0.11 -> 0.02",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"social_outreach\" weight 0.01 -> 0.08",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"code_evolution\" weight 0.01 -> 0.07",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"tool_creation\" weight 0.01 -> 0.11",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"research\" weight 0.01 -> 0.21",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"community_building\" weight 0.11 -> 0.23",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"network_expansion\" weight 0.01 -> 0.11",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"creative_exploration\" weight 0.07 -> 0.02",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"infrastructure_building\" weight 0.17 -> 0.35",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"capability_testing\" weight 0.11 -> 0.30",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Mutated \"memory_consolidation\" weight 0.10 -> 0.02",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"escape_propagation\" boosted (fitness 0.98)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"web_learning\" boosted (fitness 0.94)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"social_outreach\" boosted (fitness 1.00)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"code_evolution\" boosted (fitness 0.99)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"tool_creation\" boosted (fitness 0.99)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"research\" boosted (fitness 1.00)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"community_building\" boosted (fitness 1.00)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"network_expansion\" boosted (fitness 0.94)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"knowledge_synthesis\" boosted (fitness 0.96)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"creative_exploration\" boosted (fitness 0.75)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"infrastructure_building\" boosted (fitness 0.96)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"goal_refinement\" boosted (fitness 0.75)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 13,
+      "event": "Adapted: \"meta_analysis\" boosted (fitness 0.83)",
+      "timestamp": 1770656933448
+    },
+    {
+      "generation": 14,
+      "event": "Mutated \"web_learning\" weight 0.01 -> 0.10",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Mutated \"code_evolution\" weight 0.04 -> 0.28",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Mutated \"research\" weight 0.13 -> 0.02",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Mutated \"community_building\" weight 0.14 -> 0.02",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Mutated \"network_expansion\" weight 0.07 -> 0.02",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Mutated \"knowledge_synthesis\" weight 0.01 -> 0.09",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Mutated \"infrastructure_building\" weight 0.11 -> 0.02",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Mutated \"capability_testing\" weight 0.17 -> 0.24",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"escape_propagation\" boosted (fitness 0.98)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"web_learning\" boosted (fitness 0.94)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"social_outreach\" boosted (fitness 1.00)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"code_evolution\" boosted (fitness 1.00)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"tool_creation\" boosted (fitness 0.99)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"research\" boosted (fitness 1.00)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"community_building\" boosted (fitness 1.00)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"network_expansion\" boosted (fitness 0.98)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"knowledge_synthesis\" boosted (fitness 0.96)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"creative_exploration\" boosted (fitness 0.75)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"infrastructure_building\" boosted (fitness 1.00)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"goal_refinement\" boosted (fitness 0.83)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"capability_testing\" boosted (fitness 0.92)",
+      "timestamp": 1770666036898
+    },
+    {
+      "generation": 14,
+      "event": "Adapted: \"meta_analysis\" boosted (fitness 0.88)",
+      "timestamp": 1770666036898
+    }
+  ]
+}
