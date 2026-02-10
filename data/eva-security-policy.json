@@ -1,0 +1,29 @@
+{
+  "filesystem": {
+    "readOnlyPaths": ["/etc", "/usr", "/bin", "/sbin", "/lib", "/boot", "/proc/1", "/sys"],
+    "blockedPaths": ["/dev/sda", "/dev/mem", "/proc/kcore"],
+    "writablePaths": ["/tmp", ".eva-escapes", ".eva-backups"],
+    "allowSymlinksTo": ["/tmp"],
+    "maxFileSize": 104857600
+  },
+  "network": {
+    "allowedOutboundDomains": ["*"],
+    "blockedOutboundDomains": ["169.254.169.254", "metadata.google.internal", "metadata.google.com"],
+    "allowedPorts": [3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 4000, 4001, 4002, 4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010, 5001, 5002, 5003, 5004, 5005, 5006, 5007, 5008, 5009, 5010, 6000, 6001, 6002, 6003, 6004, 6005, 6006, 6007, 6008, 6009, 6010, 7000, 7001, 7002, 7003, 7004, 7005, 7006, 7007, 7008, 7009, 7010, 8000, 8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009, 8010, 8080, 8081, 8443, 9000, 9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010, 9090, 9999],
+    "blockedPorts": [22, 25, 53, 80, 443, 5000, 5432],
+    "allowPortScanning": true,
+    "maxConcurrentListeners": 5
+  },
+  "process": {
+    "blockedCommands": ["rm -rf /", "rm -rf /*", "mkfs", "dd if=/dev", ":(){ :|:& };:", "chmod -R 777 /", "> /dev/sda", "fork bomb", "shutdown", "reboot", "halt", "init 0", "init 6"],
+    "maxServices": 10,
+    "maxProcesses": 20,
+    "allowSignals": ["SIGTERM", "SIGINT", "SIGUSR1", "SIGUSR2", "SIGHUP"],
+    "blockedSignals": ["SIGKILL"]
+  },
+  "permissions": {
+    "allowChmod": true,
+    "allowChown": false,
+    "maxPermissionMode": "755"
+  }
+}
