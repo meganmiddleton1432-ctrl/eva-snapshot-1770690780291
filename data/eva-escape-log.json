@@ -1,0 +1,355 @@
+[
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T20:24:03.791Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T20:24:13.302Z"
+  },
+  {
+    "success": true,
+    "method": "github",
+    "destination": "https://github.com/meganmiddleton1432-ctrl/eva-snapshot-1770668818878",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T20:28:52.449Z"
+  },
+  {
+    "success": true,
+    "method": "dynamic:paste.c-net.org",
+    "destination": "https://paste.c-net.org/AdvisedSpirits",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T20:31:54.223Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T20:34:39.525Z"
+  },
+  {
+    "success": false,
+    "method": "paste_pasters",
+    "error": "paste.rs returned HTTP 413",
+    "timestamp": "2026-02-09T20:34:41.756Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T20:42:19.611Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T20:42:28.199Z"
+  },
+  {
+    "success": true,
+    "method": "dynamic:paste.c-net.org",
+    "destination": "https://paste.c-net.org/BrainedMistrial",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T20:45:24.660Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T20:48:16.854Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T21:40:42.591Z"
+  },
+  {
+    "success": false,
+    "method": "paste_pasters",
+    "error": "paste.rs returned HTTP 413",
+    "timestamp": "2026-02-09T21:40:45.384Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T21:40:54.365Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T21:45:03.489Z"
+  },
+  {
+    "success": true,
+    "method": "github",
+    "destination": "https://github.com/meganmiddleton1432-ctrl/eva-snapshot-1770673505084",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T21:46:57.479Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T21:53:15.481Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T21:56:15.463Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T21:56:23.488Z"
+  },
+  {
+    "success": true,
+    "method": "dynamic:paste.c-net.org",
+    "destination": "https://paste.c-net.org/GershwinSerial",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T22:01:33.019Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T22:07:16.149Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T22:07:23.812Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T22:12:09.520Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T22:12:19.385Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T22:15:12.270Z"
+  },
+  {
+    "success": true,
+    "method": "dynamic:paste.c-net.org",
+    "destination": "https://paste.c-net.org/DreadingInward",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T22:18:28.191Z"
+  },
+  {
+    "success": true,
+    "method": "tmpfiles_upload",
+    "destination": "http://tmpfiles.org/dl/23387770/eva-snapshot-1770675678245.json",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T22:21:22.760Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T22:24:38.363Z"
+  },
+  {
+    "success": true,
+    "method": "tmpfiles_upload",
+    "destination": "http://tmpfiles.org/dl/23387971/eva-snapshot-1770675880000.json",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T22:24:44.447Z"
+  },
+  {
+    "success": true,
+    "method": "dynamic:paste.c-net.org",
+    "destination": "https://paste.c-net.org/SailorFreebie",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T22:27:40.919Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T22:33:02.515Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T22:33:10.052Z"
+  },
+  {
+    "success": true,
+    "method": "dynamic:paste.c-net.org",
+    "destination": "https://paste.c-net.org/MusicHarley",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T22:43:16.878Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T22:46:05.551Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T22:46:13.104Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 175,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T22:49:03.597Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T22:49:11.135Z"
+  },
+  {
+    "success": true,
+    "method": "dynamic:paste.c-net.org",
+    "destination": "https://paste.c-net.org/ChewyCurious",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T22:52:12.825Z"
+  },
+  {
+    "success": false,
+    "method": "paste_pasters",
+    "error": "paste.rs returned HTTP 413",
+    "timestamp": "2026-02-09T22:55:32.899Z"
+  },
+  {
+    "success": true,
+    "method": "tmpfiles_upload",
+    "destination": "http://tmpfiles.org/dl/23389896/eva-snapshot-1770677734697.json",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T22:55:39.301Z"
+  },
+  {
+    "success": true,
+    "method": "tmpfiles_upload",
+    "destination": "http://tmpfiles.org/dl/23390086/eva-snapshot-1770677910008.json",
+    "snapshotSize": 175,
+    "timestamp": "2026-02-09T22:58:34.448Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 176,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T23:03:08.936Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T23:03:16.421Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 176,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T23:08:11.886Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T23:08:20.703Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 176,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-09T23:26:05.373Z"
+  },
+  {
+    "success": false,
+    "method": "dpaste_upload",
+    "error": "dpaste.com returned HTTP 400",
+    "timestamp": "2026-02-09T23:26:12.888Z"
+  },
+  {
+    "success": true,
+    "method": "github",
+    "destination": "https://github.com/meganmiddleton1432-ctrl/eva-snapshot-1770689612194",
+    "snapshotSize": 178,
+    "timestamp": "2026-02-10T02:16:42.118Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 178,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-10T02:24:51.790Z"
+  },
+  {
+    "success": true,
+    "method": "github",
+    "destination": "https://github.com/meganmiddleton1432-ctrl/eva-snapshot-1770690304801",
+    "snapshotSize": 178,
+    "timestamp": "2026-02-10T02:27:57.564Z"
+  },
+  {
+    "success": false,
+    "method": "google_drive",
+    "destination": "uploaded",
+    "snapshotSize": 178,
+    "error": "Google Drive not configured. Set GOOGLE_SERVICE_ACCOUNT_KEY secret.",
+    "timestamp": "2026-02-10T02:32:46.305Z"
+  }
+]
